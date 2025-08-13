@@ -20,58 +20,27 @@ author:
   # remove all the other social keys you won't use to reduce clutter
 
 
-# Keep minimal nav/data in _data/navigation.yml (edited separately)
+# turn off unused collections to simplify
+# (delete any existing 'collections:' block in your file)
+# collections: {}
 
-# SEO / sharing (optional defaults; safe to leave blank)
-og_image       :
-og_description :
-
-# Analytics (off)
 analytics:
   provider     : "false"
 
-# Jekyll build
 include:
   - _pages
   - files
-exclude:
-  - .github
-  - node_modules
-  - vendor
-  - Dockerfile
-  - docker-compose.yaml
-  - .devcontainer
-encoding     : "utf-8"
-markdown_ext : "markdown,mkdown,mkdn,mkd,md"
 
-# Conversion
 markdown      : kramdown
 highlighter   : rouge
-excerpt_separator: "\n\n"
 
-kramdown:
-  input       : GFM
-  hard_wrap   : false
-  auto_ids    : true
-
-# Only pages default
 defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  - scope: { path: "", type: pages }
+    values: { layout: single, author_profile: true }
 
-# Sass/SCSS
-sass:
-  sass_dir    : _sass
-  style       : compressed
+sass: { sass_dir: _sass, style: compressed }
+permalink: /:categories/:title/
 
-# Permalinks
-permalink     : /:categories/:title/
-
-# Plugins supported by GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -88,8 +57,6 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
-# HTML compression (optional)
 compress_html:
   clippings: all
-  ignore:
-    envs: development
+  ignore: { envs: development }
