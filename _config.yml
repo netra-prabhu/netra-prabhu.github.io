@@ -18,3 +18,78 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=HCtwgPsAAAAJ&hl=en"
   orcid    : "https://orcid.org/my-orcid?orcid=0009-0005-5914-7642"   # optional, else delete line
   # remove all the other social keys you won't use to reduce clutter
+
+
+# Keep minimal nav/data in _data/navigation.yml (edited separately)
+
+# SEO / sharing (optional defaults; safe to leave blank)
+og_image       :
+og_description :
+
+# Analytics (off)
+analytics:
+  provider     : "false"
+
+# Jekyll build
+include:
+  - _pages
+  - files
+exclude:
+  - .github
+  - node_modules
+  - vendor
+  - Dockerfile
+  - docker-compose.yaml
+  - .devcontainer
+encoding     : "utf-8"
+markdown_ext : "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown      : kramdown
+highlighter   : rouge
+excerpt_separator: "\n\n"
+
+kramdown:
+  input       : GFM
+  hard_wrap   : false
+  auto_ids    : true
+
+# Only pages default
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Sass/SCSS
+sass:
+  sass_dir    : _sass
+  style       : compressed
+
+# Permalinks
+permalink     : /:categories/:title/
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+whitelist:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+# HTML compression (optional)
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
