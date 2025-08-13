@@ -4,7 +4,7 @@ name         : "Netra L. Prabhu"
 description  : "Network Analysis, Bayesian Analysis, Machine Learning"
 url          : "https://netra-prabhu.github.io"   # add quotes, no trailing slash
 baseurl      : ""                                  # keep empty for user site
-repository   : ""  # <-- not academicpages
+repository   : "netra-prabhu/netra-prabhu.github.io"   # <-- not academicpages
 
 # Author (sidebar/profile)
 author:
