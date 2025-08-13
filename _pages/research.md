@@ -9,3 +9,8 @@ author_profile: true
 - Causal Inference
 - Hypergraphs
 - Graphical Neural Networks
+
+**Current directions**
+- Community detection in stochastic block modeling  
+- Hypergraphs-based approaches for ranking paths in taxicogenomics data 
+
