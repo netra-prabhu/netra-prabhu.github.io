@@ -8,7 +8,7 @@ repository   : "netra-prabhu/netra-prabhu.github.io"   # <-- not academicpages
 
 # Author (sidebar/profile)
 author:
-  avatar   : "images/profile.jpg"     # put your file there
+  avatar   : "images/profile-min.jpg"     # put your file there
   name     : "Netra Prabhu"
   bio      : "PhD student in Statistics"
   location : "Raleigh, NC"
