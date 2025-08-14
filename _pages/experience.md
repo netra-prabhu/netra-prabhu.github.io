@@ -46,5 +46,4 @@ A concise, recruiter‑friendly timeline highlighting impact first. Each role st
 
 
 
-### Contact for full resume
-Prefer the long form? See **[CV (PDF)](/files/Netra_Prabhu_CV.pdf)**.
+
