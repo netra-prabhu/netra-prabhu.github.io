@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Research"
@@ -6,14 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-**Interests**
+## Interests
 - Network Analysis
 - Bayesian Methods
 - Causal Inference
 - Hypergraphs
-- Graphical Neural Networks
+- Graph Neural Networks
 
-**Current directions**
-- Community detection in stochastic block modeling  
-- Hypergraphs-based approaches for ranking paths in taxicogenomics data 
+## Current directions
+- Community detection in stochastic block models
+- Hypergraph-based approaches for ranking paths in taxicogenomics data
+
 
