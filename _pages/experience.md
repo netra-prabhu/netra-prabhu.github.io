@@ -24,7 +24,7 @@ A concise, recruiter‑friendly timeline highlighting impact first. Each role st
 
 ## Accenture Operations — Data Science Intern
 **Apr 2020 – Jun 2020 · Bengaluru, India**  
-**One‑line:** Developed CTR prediction models on high‑cardinality ads data; lifted AUC from **0.52 → 0.72**.
+##### Developed CTR prediction models on high‑cardinality ads data; lifted AUC from **0.52 → 0.72**.
 
 - Engineered features with **target encoding, OHE, TF‑IDF, PCA**; tuned **XGBoost** to outperform baselines.
 
@@ -34,7 +34,7 @@ A concise, recruiter‑friendly timeline highlighting impact first. Each role st
 
 ## Cytel Statistical Software & Services — Project Trainee
 **May 2019 – Jun 2019 · Pune, India**  
-**One‑line:** Built heart‑disease risk models with **87% accuracy** from EDA through model selection.
+##### Built heart‑disease risk models with **87% accuracy** from EDA through model selection.
 
 - Conducted **EDA** to isolate key risk factors; informed feature selection.
 - Trained and compared **Random Forest, XGBoost, Logistic Regression**; validated on hold‑out data.
