@@ -10,26 +10,14 @@ I’m **Netra L. Prabhu**, a third-year PhD student in Statistics at North Carol
 
 ## 🎓 Education
 
-#### North Carolina State University
-*Raleigh, NC*
-**Ph.D. in Statistics**  
-**2023 – 2027 (Expected) · GPA: 3.88/4.00**  
+### North Carolina State University — *Ph.D. in Statistics*  
+*Aug 2023 – Present · Raleigh, NC*  
+GPA: 3.88/4.00
 
+### Indian Institute of Technology, Bombay — *M.Sc. in Applied Statistics & Informatics*  
+*Jul 2019 – Jul 2021 · Mumbai, India*  
+GPA: 8.88/10.00
 
----
-
-#### Indian Institute of Technology, Bombay (IIT Bombay)
-*Mumbai, India*
-**M.Sc. in Applied Statistics & Informatics**
-**2019 – 2021 · GPA: 8.88/10.00**  
-
-
----
-
-####  — University of Mumbai
-*Mumbai, India*
-**B.Sc. in Statistics (Minor: Mathematics, Economics)**
-**2016 – 2019 · GPA: 9.72/10.00**  
-
-
----
+### University of Mumbai — *B.Sc. in Statistics (Minor: Mathematics, Economics)*  
+*Jun 2016 – May 2019 · Mumbai, India*  
+GPA: 9.72/10.00
