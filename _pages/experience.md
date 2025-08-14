@@ -12,7 +12,7 @@ A concise, recruiter‑friendly timeline highlighting impact first. Each role st
 
 ## Wells Fargo — Quantitative Analytics Specialist (Model Validation)
 **Jul 2021 – Jul 2023 · Bengaluru, India**  
-#### Validated credit‑risk and loss‑forecasting models per(SR 11‑7) and built ML risk‑monitoring tools that earned company‑wide awards.
+##### Validated credit‑risk and loss‑forecasting models per(SR 11‑7) and built ML risk‑monitoring tools that earned company‑wide awards.
 
 - Performed end‑to‑end **model validation** for credit risk & loss forecasting (SR 11‑7), including statistical testing and documentation review.
 - Built a **network‑based ML early‑warning** system for model risk; **finalist** in Corporate Risk Innovation Challenge 2022.
