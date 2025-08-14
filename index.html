@@ -1,6 +1,11 @@
-
----
-layout: redirect
-permalink: /
-redirect_to: /about/
----
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/about/">
+    <meta name="robots" content="noindex">
+  </head>
+  <body>
+    <p>Redirecting to <a href="/about/">About</a>…</p>
+    <script>location.replace("/about/")</script>
+  </body>
+</html>
