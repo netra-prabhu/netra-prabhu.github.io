@@ -1,6 +1,6 @@
 # Top identity
 title        : "Netra L. Prabhu"
-name         : "Netra L. Prabhu"
+name         : &name "Netra L. Prabhu"
 description  : "Network Analysis, Bayesian Analysis, Machine Learning"
 url          : "https://netra-prabhu.github.io"   # add quotes, no trailing slash
 baseurl      : ""                                  # keep empty for user site
@@ -8,7 +8,7 @@ repository   : "netra-prabhu/netra-prabhu.github.io"   # <-- not academicpages
 
 # Author (sidebar/profile)
 author:
-  avatar   : "images/profile-min.jpg"     # put your file there
+  avatar   : "profile-min-min.png"     # put your file there
   name     : "Netra Prabhu"
   bio      : "PhD student in Statistics"
   location : "Raleigh, NC"
