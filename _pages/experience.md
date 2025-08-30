@@ -6,9 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<div style="margin:0 0 1rem 0;color:#475569">
-A concise, recruiter‑friendly timeline highlighting impact first. Each role starts with a one‑line summary, followed by 2–3 proof points.
-</div>
+
 
 ## Wells Fargo — Quantitative Analytics Specialist (Model Validation)
 **Jul 2021 – Jul 2023 · Bengaluru, India**  
